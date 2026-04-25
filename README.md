@@ -49,5 +49,4 @@ An AI-powered application that allows users to upload PDF documents and ask ques
 * Groq
 
 
-✅ Add **badges (stars, tech logos)**
-✅ Make it **top 1% GitHub level README** 🚀
+
